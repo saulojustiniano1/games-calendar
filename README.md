@@ -26,7 +26,7 @@
 
 📦Projeto **calendário de jogos** desenvolvido no evento da **NLW Copa** da _Trilha Explorer_.
 
-> **Link do projeto:** [🔗Clique aqui para acessar](https://saulojustiniano1.github.io/esports-community)
+> **Link do projeto:** [🔗Clique aqui para acessar](https://saulojustiniano1.github.io/games-calendar/)
 
 ###
 
@@ -34,6 +34,7 @@
 
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 **🚀Tecnologias:**
 
